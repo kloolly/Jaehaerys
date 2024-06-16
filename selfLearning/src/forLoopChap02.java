@@ -53,6 +53,7 @@ public class forLoopChap02 {
 
     public static void printCharVer2 () {
         for (int c = 65; c<=90; c++) {
+            // แสดง
             System.out.printf("%c", (char)c);
         }
     }

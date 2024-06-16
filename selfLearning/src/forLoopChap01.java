@@ -38,6 +38,7 @@ public class forLoopChap01 {
     }
 
     public static void main(String[]args) {
-        System.out.println(sum(8,10));
+        //System.out.println(sum(8,10));
+        System.out.println(demo2(););
     }
 }
