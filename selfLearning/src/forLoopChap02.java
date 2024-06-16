@@ -15,7 +15,7 @@ public class forLoopChap02 {
             System.out.println("----");
         }
     }
-    public static void demo3 () {
+    private static void demo3 () {
         for (int i=10;i>=0;i--) {
             System.out.println(i);
             System.out.println("----");
