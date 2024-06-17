@@ -31,7 +31,7 @@ public class forLoopChap01 {
     }
     public static int sum (int fromNumber, int toNumber) {
         int result =0;
-        for (int i=fromNumber;i<=toNumber;i++) {
+        for (int i=fromNumber ; i<=toNumber ; i++) {
             result = result + i;
         }
         return result;
