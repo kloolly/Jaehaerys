@@ -20,8 +20,6 @@ public class Test_Dog {
 //        gogo = new Dog();
 //        gogo.wag();
 //
-
-
         Dog gaga = new Dog();
         gaga.count++;
         gaga.age=5;
@@ -31,5 +29,9 @@ public class Test_Dog {
         gogo.count++;
         gogo.age=8;
         System.out.println(gogo.count+" "+gogo.age);
+        
+
+        System.out.println(gaga.count);
+        System.out.println(gogo.count);
     }
 }

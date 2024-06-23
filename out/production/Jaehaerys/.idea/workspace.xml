@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48dcba57-0ab3-46b2-81d6-2a3fd9ffcd3b" name="Changes" comment="wip">
-      <change afterPath="$PROJECT_DIR$/Lab3/lecture/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/lecture/Test_Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab3/account by chatgpt/Account.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab3/account by chatgpt/TestAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/selfLearning/src/w3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/selfLearning/src/w3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/account/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/account/TestAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/lecture/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/lecture/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/lecture/Test_Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/lecture/Test_Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Jaehaerys/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Jaehaerys/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Jaehaerys/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Jaehaerys/Test_Dog.class" beforeDir="false" />
     </list>
     <list id="fe6c420c-7a51-447f-9ae9-dbf586490a28" name="Changes by tanat" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,13 +48,16 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2i0NP5UsNGwwGOIJQuYbi9onH5u" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;Application.Account.executor&quot;: &quot;Run&quot;,
     &quot;Application.Exercise_01.executor&quot;: &quot;Debug&quot;,
     &quot;Application.Exercise_11.executor&quot;: &quot;Run&quot;,
@@ -73,6 +78,7 @@
     &quot;Application.Prog_7_9.executor&quot;: &quot;Run&quot;,
     &quot;Application.Second.executor&quot;: &quot;Run&quot;,
     &quot;Application.TestAccount.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test_Dog.executor&quot;: &quot;Run&quot;,
     &quot;Application.arrayChap01.executor&quot;: &quot;Run&quot;,
     &quot;Application.kkkk.executor&quot;: &quot;Run&quot;,
     &quot;Application.storeInArray.executor&quot;: &quot;Run&quot;,
@@ -80,7 +86,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -91,7 +97,7 @@
       <recent name="Lab2.เพื่อนส่งมา" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Test_Dog">
     <configuration name="Account" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Account" />
       <module name="Jaehaerys" />
@@ -119,8 +125,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test_Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test_Dog" />
+      <module name="Jaehaerys" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test_Dog" />
         <item itemvalue="Application.TestAccount" />
         <item itemvalue="Application.Main" />
       </list>
@@ -319,7 +333,47 @@
       <option name="project" value="LOCAL" />
       <updated>1719042023384</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="wip">
+      <option name="closed" value="true" />
+      <created>1719061979427</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1719061979427</updated>
+    </task>
+    <task id="LOCAL-00025" summary="wip">
+      <option name="closed" value="true" />
+      <created>1719133449528</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1719133449528</updated>
+    </task>
+    <task id="LOCAL-00026" summary="wip">
+      <option name="closed" value="true" />
+      <created>1719133529386</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1719133529386</updated>
+    </task>
+    <task id="LOCAL-00027" summary="wip">
+      <option name="closed" value="true" />
+      <created>1719133615121</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1719133615121</updated>
+    </task>
+    <task id="LOCAL-00028" summary="wip">
+      <option name="closed" value="true" />
+      <created>1719133685746</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1719133685746</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -334,6 +388,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="1" />
     <MESSAGE value="DONE" />
     <MESSAGE value="K" />

@@ -25,5 +25,4 @@ public class Dog {
         System.out.println("This is wag ().");
     }
 
-
 }
