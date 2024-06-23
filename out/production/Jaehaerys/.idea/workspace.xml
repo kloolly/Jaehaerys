@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="48dcba57-0ab3-46b2-81d6-2a3fd9ffcd3b" name="Changes" comment="wip">
+      <change afterPath="$PROJECT_DIR$/Lab3/lecture/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/lecture/Test_Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/account by chatgpt/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/account by chatgpt/TestAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/selfLearning/src/w3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/selfLearning/src/w3/Main.java" afterDir="false" />
+    </list>
+    <list id="fe6c420c-7a51-447f-9ae9-dbf586490a28" name="Changes by tanat" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kloolly&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kloolly/Jaehaerys.git&quot;,
+    &quot;accountId&quot;: &quot;5282c416-19e2-4e0e-ac66-6da824df734a&quot;
+  }
+}</component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2i0NP5UsNGwwGOIJQuYbi9onH5u" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Account.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercise_01.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Exercise_11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GuessNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IntegerOverflowExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeapYear.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prog_3_5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prog_5_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prog_5_11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prog_5_13.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prog_5_15.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prog_5_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prog_5_35.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prog_5_3v1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prog_5_43.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prog_5_5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prog_7_9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Second.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestAccount.executor&quot;: &quot;Run&quot;,
+    &quot;Application.arrayChap01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.kkkk.executor&quot;: &quot;Run&quot;,
+    &quot;Application.storeInArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.w3.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/selfLearning/src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Lab2.เพื่อนส่งมา" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Account" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Account" />
+      <module name="Jaehaerys" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LearnClass.Main" />
+      <module name="selfLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LearnClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestAccount" />
+      <module name="Jaehaerys" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestAccount" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48dcba57-0ab3-46b2-81d6-2a3fd9ffcd3b" name="Changes" comment="" />
+      <created>1718623507660</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718623507660</updated>
+    </task>
+    <task id="LOCAL-00001" summary="1">
+      <option name="closed" value="true" />
+      <created>1718624519412</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718624519412</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1">
+      <option name="closed" value="true" />
+      <created>1718625189021</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718625189021</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1">
+      <option name="closed" value="true" />
+      <created>1718626273446</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718626273446</updated>
+    </task>
+    <task id="LOCAL-00004" summary="DONE">
+      <option name="closed" value="true" />
+      <created>1718634002456</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718634002456</updated>
+    </task>
+    <task id="LOCAL-00005" summary="K">
+      <option name="closed" value="true" />
+      <created>1718636431078</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718636431078</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ยังไม่เสร็จ ยังงงอยู่">
+      <option name="closed" value="true" />
+      <created>1718638343875</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718638343875</updated>
+    </task>
+    <task id="LOCAL-00007" summary="ยังไม่เสร็จ ยังงงอยู่">
+      <option name="closed" value="true" />
+      <created>1718698842661</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1718698842661</updated>
+    </task>
+    <task id="LOCAL-00008" summary="OK DONE">
+      <option name="closed" value="true" />
+      <created>1718721435356</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1718721435356</updated>
+    </task>
+    <task id="LOCAL-00009" summary="NOT DONE">
+      <option name="closed" value="true" />
+      <created>1718721465375</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1718721465376</updated>
+    </task>
+    <task id="LOCAL-00010" summary="OK DONE">
+      <option name="closed" value="true" />
+      <created>1718724929277</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1718724929277</updated>
+    </task>
+    <task id="LOCAL-00011" summary="OK DONE">
+      <option name="closed" value="true" />
+      <created>1718726868497</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1718726868498</updated>
+    </task>
+    <task id="LOCAL-00012" summary="OK DONE">
+      <option name="closed" value="true" />
+      <created>1718726969339</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1718726969339</updated>
+    </task>
+    <task id="LOCAL-00013" summary="OK DONE">
+      <option name="closed" value="true" />
+      <created>1718786155937</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1718786155937</updated>
+    </task>
+    <task id="LOCAL-00014" summary="OK DONE">
+      <option name="closed" value="true" />
+      <created>1718790321913</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1718790321913</updated>
+    </task>
+    <task id="LOCAL-00015" summary="OK DONE">
+      <option name="closed" value="true" />
+      <created>1718809958485</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1718809958485</updated>
+    </task>
+    <task id="LOCAL-00016" summary="OK DONE">
+      <option name="closed" value="true" />
+      <created>1718811525313</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1718811525313</updated>
+    </task>
+    <task id="LOCAL-00017" summary="wip">
+      <option name="closed" value="true" />
+      <created>1718866071311</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1718866071311</updated>
+    </task>
+    <task id="LOCAL-00018" summary="wip">
+      <option name="closed" value="true" />
+      <created>1718952888656</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1718952888657</updated>
+    </task>
+    <task id="LOCAL-00019" summary="wip">
+      <option name="closed" value="true" />
+      <created>1718963248525</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1718963248525</updated>
+    </task>
+    <task id="LOCAL-00020" summary="wip">
+      <option name="closed" value="true" />
+      <created>1718975345186</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1718975345186</updated>
+    </task>
+    <task id="LOCAL-00021" summary="wip">
+      <option name="closed" value="true" />
+      <created>1718975361239</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1718975361239</updated>
+    </task>
+    <task id="LOCAL-00022" summary="wip">
+      <option name="closed" value="true" />
+      <created>1719039610280</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1719039610280</updated>
+    </task>
+    <task id="LOCAL-00023" summary="wip">
+      <option name="closed" value="true" />
+      <created>1719042023384</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1719042023384</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <MESSAGE value="DONE" />
+    <MESSAGE value="K" />
+    <MESSAGE value="ยังไม่เสร็จ ยังงงอยู่" />
+    <MESSAGE value="NOT DONE" />
+    <MESSAGE value="OK DONE" />
+    <MESSAGE value="wip" />
+    <option name="LAST_COMMIT_MESSAGE" value="wip" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lab3/account by chatgpt/Account.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
