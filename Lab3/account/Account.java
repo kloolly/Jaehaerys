@@ -1,3 +1,5 @@
+//ิลิ้งวิธีทำ
+//      https://youtu.be/2V2ROKh-ySA
 public class Account {
 //    data
 //    สร้างตัวแปร 3 ตัว แต่ numAccount เป็น statice เพราะจะใช้เก็บค่าร่วมกันทุก method
