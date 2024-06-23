@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48dcba57-0ab3-46b2-81d6-2a3fd9ffcd3b" name="Changes" comment="wip">
-      <change afterPath="$PROJECT_DIR$/Lab3/account/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/account/TestAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab3/lecture/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/lecture/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab3/lecture/Test_Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/lecture/Test_Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Jaehaerys/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Jaehaerys/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Jaehaerys/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Jaehaerys/Test_Dog.class" beforeDir="false" />
+    <list default="true" id="48dcba57-0ab3-46b2-81d6-2a3fd9ffcd3b" name="Changes" comment="OK DONE added link youtube">
+      <change afterPath="$PROJECT_DIR$/Lab3/ninePointOne/Prog_9_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/ninePointOne/Rectangle.java" afterDir="false" />
     </list>
     <list id="fe6c420c-7a51-447f-9ae9-dbf586490a28" name="Changes by tanat" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,6 +73,7 @@
     &quot;Application.Prog_7_9.executor&quot;: &quot;Run&quot;,
     &quot;Application.Second.executor&quot;: &quot;Run&quot;,
     &quot;Application.TestAccount.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestAccount2.executor&quot;: &quot;Run&quot;,
     &quot;Application.Test_Dog.executor&quot;: &quot;Run&quot;,
     &quot;Application.arrayChap01.executor&quot;: &quot;Run&quot;,
     &quot;Application.kkkk.executor&quot;: &quot;Run&quot;,
@@ -97,7 +93,7 @@
       <recent name="Lab2.เพื่อนส่งมา" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test_Dog">
+  <component name="RunManager">
     <configuration name="Account" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Account" />
       <module name="Jaehaerys" />
@@ -125,6 +121,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestAccount2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestAccount2" />
+      <module name="Jaehaerys" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test_Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test_Dog" />
       <module name="Jaehaerys" />
@@ -134,8 +137,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test_Dog" />
+        <item itemvalue="Application.TestAccount2" />
         <item itemvalue="Application.TestAccount" />
+        <item itemvalue="Application.Test_Dog" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -373,7 +377,55 @@
       <option name="project" value="LOCAL" />
       <updated>1719133685746</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="wip">
+      <option name="closed" value="true" />
+      <created>1719135676786</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1719135676786</updated>
+    </task>
+    <task id="LOCAL-00030" summary="OK DONE">
+      <option name="closed" value="true" />
+      <created>1719135697123</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1719135697123</updated>
+    </task>
+    <task id="LOCAL-00031" summary="OK DONE">
+      <option name="closed" value="true" />
+      <created>1719138060474</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1719138060474</updated>
+    </task>
+    <task id="LOCAL-00032" summary="OK DONE">
+      <option name="closed" value="true" />
+      <created>1719141210520</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1719141210520</updated>
+    </task>
+    <task id="LOCAL-00033" summary="OK DONE added link youtube">
+      <option name="closed" value="true" />
+      <created>1719145212245</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1719145212246</updated>
+    </task>
+    <task id="LOCAL-00034" summary="OK DONE added link youtube">
+      <option name="closed" value="true" />
+      <created>1719145321913</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1719145321913</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -394,9 +446,10 @@
     <MESSAGE value="K" />
     <MESSAGE value="ยังไม่เสร็จ ยังงงอยู่" />
     <MESSAGE value="NOT DONE" />
-    <MESSAGE value="OK DONE" />
     <MESSAGE value="wip" />
-    <option name="LAST_COMMIT_MESSAGE" value="wip" />
+    <MESSAGE value="OK DONE" />
+    <MESSAGE value="OK DONE added link youtube" />
+    <option name="LAST_COMMIT_MESSAGE" value="OK DONE added link youtube" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
