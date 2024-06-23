@@ -6,20 +6,30 @@ public class Test_Dog {
 //        Dog(): เรียกใช้ constructor ของคลาส Dog ซึ่งเป็นฟังก์ชันพิเศษที่ใช้สำหรับการสร้างและกำหนดค่าเริ่มต้นให้กับวัตถุใหม่ ในกรณีนี้เรียกใช้ constructor ที่ไม่มีการรับพารามิเตอร์
 //        รวมแล้ว, บรรทัดนี้คือการสร้างวัตถุใหม่ของคลาส Dog และเก็บไว้ในตัวแปรที่ชื่อ gaga
 //        คือเรียกใช้ class Dog ใน obj ชื่อ gaga
+//        Dog gaga = new Dog();
+//        gaga.bark();
+//        gaga.wag();
+////        gaga=null;
+//
+//        Dog gogo = gaga;
+//        Dog gigi = gaga;
+//        gogo.bark();
+//
+//        gigi.wag();
+//
+//        gogo = new Dog();
+//        gogo.wag();
+//
+
+
         Dog gaga = new Dog();
-        gaga.bark();
-        gaga.wag();
-//        gaga=null;
+        gaga.count++;
+        gaga.age=5;
+        System.out.println(gaga.count+" "+gaga.age);
 
-        Dog gogo = gaga;
-        Dog gigi = gaga;
-        gogo.bark();
-
-        gigi.wag();
-
-        gogo = new Dog();
-        gogo.wag();
-
-
+        Dog gogo = new Dog();
+        gogo.count++;
+        gogo.age=8;
+        System.out.println(gogo.count+" "+gogo.age);
     }
 }
