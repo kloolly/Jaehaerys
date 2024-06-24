@@ -37,9 +37,9 @@ public class LinearEquation {
         return (a*d)-(b*c)!=0;
     }
     public double getX() {
-        return (e*d)-(b*f) / (a*d)-(b*c);
+        return (e*d-b*f) / (a*d-b*c);
     }
     public double getY() {
-        return (a*f)-(e*c) / (a*d)-(b*c);
+        return (a*f-e*c) / (a*d-b*c);
     }
 }

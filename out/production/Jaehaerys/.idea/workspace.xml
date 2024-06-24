@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48dcba57-0ab3-46b2-81d6-2a3fd9ffcd3b" name="Changes" comment="OK DONE added link youtube">
-      <change afterPath="$PROJECT_DIR$/Lab3/ninePointOne/Prog_9_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/ninePointOne/Rectangle.java" afterDir="false" />
-    </list>
+    <list default="true" id="48dcba57-0ab3-46b2-81d6-2a3fd9ffcd3b" name="Changes" comment="OK DONE" />
     <list id="fe6c420c-7a51-447f-9ae9-dbf586490a28" name="Changes by tanat" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,42 +47,50 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.Account.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercise_01.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Exercise_11.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GuessNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IntegerOverflowExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeapYear.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Prog_3_5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Prog_5_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Prog_5_11.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Prog_5_13.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Prog_5_15.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Prog_5_3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Prog_5_35.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Prog_5_3v1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Prog_5_43.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Prog_5_5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Prog_7_9.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Second.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestAccount.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestAccount2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test_Dog.executor&quot;: &quot;Run&quot;,
-    &quot;Application.arrayChap01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.kkkk.executor&quot;: &quot;Run&quot;,
-    &quot;Application.storeInArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.w3.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Account.executor": "Run",
+    "Application.Exercise_01.executor": "Debug",
+    "Application.Exercise_11.executor": "Run",
+    "Application.GuessNumber.executor": "Run",
+    "Application.IntegerOverflowExample.executor": "Run",
+    "Application.LeapYear.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Prog_3_5.executor": "Run",
+    "Application.Prog_5_1.executor": "Run",
+    "Application.Prog_5_11.executor": "Run",
+    "Application.Prog_5_13.executor": "Run",
+    "Application.Prog_5_15.executor": "Run",
+    "Application.Prog_5_3.executor": "Run",
+    "Application.Prog_5_35.executor": "Run",
+    "Application.Prog_5_3v1.executor": "Run",
+    "Application.Prog_5_43.executor": "Run",
+    "Application.Prog_5_5.executor": "Run",
+    "Application.Prog_7_9.executor": "Run",
+    "Application.Prog_9_1.executor": "Run",
+    "Application.Prog_9_11.executor": "Run",
+    "Application.Second.executor": "Run",
+    "Application.TestAccount.executor": "Run",
+    "Application.TestAccount2.executor": "Run",
+    "Application.Test_Dog.executor": "Run",
+    "Application.arrayChap01.executor": "Run",
+    "Application.kkkk.executor": "Run",
+    "Application.storeInArray.executor": "Run",
+    "Application.testBool.executor": "Run",
+    "Application.w3.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/tanat/Library/CloudStorage/OneDrive-NationalInstituteofDevelopmentAdministration/ITM24/4010 Database Management Systems and Business Applications Development/LabJava/Jaehaerys/Lab3/account2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lab3/account2" />
+      <recent name="$PROJECT_DIR$/Lab3/account" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/selfLearning/src" />
     </key>
@@ -93,23 +98,17 @@
       <recent name="Lab2.เพื่อนส่งมา" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Account" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Account" />
+  <component name="RunManager" selected="Application.Prog_9_11">
+    <configuration name="Prog_9_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Prog_9_1" />
       <module name="Jaehaerys" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LearnClass.Main" />
-      <module name="selfLearning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LearnClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Prog_9_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Prog_9_11" />
+      <module name="Jaehaerys" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -128,19 +127,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test_Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test_Dog" />
-      <module name="Jaehaerys" />
+    <configuration name="testBool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testBool" />
+      <module name="selfLearning" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Prog_9_11" />
+        <item itemvalue="Application.testBool" />
+        <item itemvalue="Application.Prog_9_1" />
         <item itemvalue="Application.TestAccount2" />
         <item itemvalue="Application.TestAccount" />
-        <item itemvalue="Application.Test_Dog" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -425,7 +425,87 @@
       <option name="project" value="LOCAL" />
       <updated>1719145321913</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="OK DONE">
+      <option name="closed" value="true" />
+      <created>1719156892573</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1719156892573</updated>
+    </task>
+    <task id="LOCAL-00036" summary="OK DONE">
+      <option name="closed" value="true" />
+      <created>1719157545514</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1719157545514</updated>
+    </task>
+    <task id="LOCAL-00037" summary="OK DONE">
+      <option name="closed" value="true" />
+      <created>1719158411649</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1719158411649</updated>
+    </task>
+    <task id="LOCAL-00038" summary="wip">
+      <option name="closed" value="true" />
+      <created>1719160637768</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1719160637768</updated>
+    </task>
+    <task id="LOCAL-00039" summary="wip">
+      <option name="closed" value="true" />
+      <created>1719160651883</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1719160651883</updated>
+    </task>
+    <task id="LOCAL-00040" summary="OK DONE">
+      <option name="closed" value="true" />
+      <created>1719160707319</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1719160707319</updated>
+    </task>
+    <task id="LOCAL-00041" summary="OK DONE">
+      <option name="closed" value="true" />
+      <created>1719160826822</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1719160826822</updated>
+    </task>
+    <task id="LOCAL-00042" summary="OK DONE">
+      <option name="closed" value="true" />
+      <created>1719160860148</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1719160860148</updated>
+    </task>
+    <task id="LOCAL-00043" summary="wip">
+      <option name="closed" value="true" />
+      <created>1719197286711</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1719197286711</updated>
+    </task>
+    <task id="LOCAL-00044" summary="OK DONE">
+      <option name="closed" value="true" />
+      <created>1719197300382</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1719197300382</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -446,10 +526,10 @@
     <MESSAGE value="K" />
     <MESSAGE value="ยังไม่เสร็จ ยังงงอยู่" />
     <MESSAGE value="NOT DONE" />
+    <MESSAGE value="OK DONE added link youtube" />
     <MESSAGE value="wip" />
     <MESSAGE value="OK DONE" />
-    <MESSAGE value="OK DONE added link youtube" />
-    <option name="LAST_COMMIT_MESSAGE" value="OK DONE added link youtube" />
+    <option name="LAST_COMMIT_MESSAGE" value="OK DONE" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
