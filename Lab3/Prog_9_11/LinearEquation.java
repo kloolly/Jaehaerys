@@ -1,45 +1,45 @@
 public class LinearEquation {
-    private static double a;
-    private static double b;
-    private static double c;
-    private static double d;
-    private static double e;
-    private static double f;
+    private double a;
+    private double b;
+    private double c;
+    private double d;
+    private double e;
+    private double f;
 
-    LinearEquation (double a, double b, double c, double d, double e, double f) {
+    public LinearEquation(double a,double b, double c,double d, double e, double f) {
+        this.a = a;
+        this.b = b;
+        this.c = c;
+        this.d = d;
+        this.e = e;
+        this.f = f;
 
     }
-    public double getterA(){
+    public double getterA() {
         return a;
     }
-    public double getterB(){
+    public double getterB() {
         return b;
     }
-    public double getterC(){
+    public double getterC() {
         return c;
     }
-    public double getterD(){
+    public double getterD() {
         return d;
     }
-    public double getterE(){
+    public double getterE() {
         return e;
     }
-    public double getterF(){
+    public double getterF() {
         return f;
     }
-
-    public static boolean isSolvable() {
-        if ((a*d)-(b*c)!=0) {
-            return true;
-        }
-        return false;
+    public boolean isSolvable() {
+        return (a*d)-(b*c)!=0;
     }
-
     public double getX() {
-        return (e*d-b*f)/(a*d-b*c);
+        return (e*d)-(b*f) / (a*d)-(b*c);
     }
-
     public double getY() {
-        return (a*f-e*c)/(a*d-b*c);
+        return (a*f)-(e*c) / (a*d)-(b*c);
     }
 }
