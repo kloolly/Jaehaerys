@@ -4,7 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48dcba57-0ab3-46b2-81d6-2a3fd9ffcd3b" name="Changes" comment="OK DONE" />
+    <list default="true" id="48dcba57-0ab3-46b2-81d6-2a3fd9ffcd3b" name="Changes" comment="WIP">
+      <change afterPath="$PROJECT_DIR$/Lab3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3/Lab3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/Vehicle/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/Vehicle/.idea/Vehicle.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/Vehicle/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/Vehicle/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/Vehicle/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/Vehicle/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/Vehicle/TestVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4/Vehicle/TestVehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/Vehicle/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4/Vehicle/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/Vehicle/out/production/Vehicle/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/Vehicle/out/production/Vehicle/.idea/Vehicle.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/Vehicle/out/production/Vehicle/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/Vehicle/out/production/Vehicle/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/Vehicle/out/production/Vehicle/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/Vehicle/out/production/Vehicle/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/Vehicle/out/production/Vehicle/TestVehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/Vehicle/out/production/Vehicle/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Jaehaerys/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Jaehaerys/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selfLearning/src/LearnClass/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/selfLearning/src/LearnClass/Main.java" afterDir="false" />
+    </list>
     <list id="fe6c420c-7a51-447f-9ae9-dbf586490a28" name="Changes by tanat" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +98,8 @@
     &quot;Application.Second.executor&quot;: &quot;Run&quot;,
     &quot;Application.TestAccount.executor&quot;: &quot;Run&quot;,
     &quot;Application.TestAccount2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestCoffee.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestVehicle.executor&quot;: &quot;Run&quot;,
     &quot;Application.Test_Dog.executor&quot;: &quot;Run&quot;,
     &quot;Application.arrayChap01.executor&quot;: &quot;Run&quot;,
     &quot;Application.kkkk.executor&quot;: &quot;Run&quot;,
@@ -84,7 +110,7 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/tanat/Library/CloudStorage/OneDrive-NationalInstituteofDevelopmentAdministration/ITM24/4010 Database Management Systems and Business Applications Development/LabJava/Jaehaerys/Lab3/account2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -99,7 +125,7 @@
       <recent name="Lab2.เพื่อนส่งมา" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestAccount">
+  <component name="RunManager">
     <configuration name="Prog_6_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Prog_6_1" />
       <module name="Jaehaerys" />
@@ -128,8 +154,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestAccount2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestAccount2" />
+    <configuration name="TestVehicle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestVehicle" />
       <module name="Jaehaerys" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -137,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestVehicle" />
         <item itemvalue="Application.TestAccount" />
         <item itemvalue="Application.Prog_6_1" />
         <item itemvalue="Application.Prog_9_1" />
         <item itemvalue="Application.Prog_9_11" />
-        <item itemvalue="Application.TestAccount2" />
       </list>
     </recent_temporary>
   </component>
@@ -153,22 +179,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718623507660</updated>
-    </task>
-    <task id="LOCAL-00002" summary="1">
-      <option name="closed" value="true" />
-      <created>1718625189021</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1718625189021</updated>
-    </task>
-    <task id="LOCAL-00003" summary="1">
-      <option name="closed" value="true" />
-      <created>1718626273446</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1718626273446</updated>
     </task>
     <task id="LOCAL-00004" summary="DONE">
       <option name="closed" value="true" />
@@ -546,7 +556,23 @@
       <option name="project" value="LOCAL" />
       <updated>1719219144311</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="WIP">
+      <option name="closed" value="true" />
+      <created>1719630728143</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1719630728144</updated>
+    </task>
+    <task id="LOCAL-00052" summary="WIP">
+      <option name="closed" value="true" />
+      <created>1719630834302</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1719630834302</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -572,7 +598,8 @@
     <MESSAGE value="OK DONE add comment and fix parentheses in method getX, getY" />
     <MESSAGE value="wip" />
     <MESSAGE value="OK DONE" />
-    <option name="LAST_COMMIT_MESSAGE" value="OK DONE" />
+    <MESSAGE value="WIP" />
+    <option name="LAST_COMMIT_MESSAGE" value="WIP" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

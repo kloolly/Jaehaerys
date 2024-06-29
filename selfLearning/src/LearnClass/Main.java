@@ -1,5 +1,7 @@
 package LearnClass;
 
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[]args) {
         BoxV2 aBox = new BoxV2();
