@@ -6,4 +6,8 @@ class Vehicle {
     public int getX1() {
         return x1;
     }
+
+    final protected int getSum() {
+        return (x1+x2+x3);
+    }
 }
