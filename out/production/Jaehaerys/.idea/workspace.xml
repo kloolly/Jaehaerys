@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48dcba57-0ab3-46b2-81d6-2a3fd9ffcd3b" name="Changes" comment="wip">
-      <change beforePath="$PROJECT_DIR$/out/production/Jaehaerys/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Jaehaerys/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="48dcba57-0ab3-46b2-81d6-2a3fd9ffcd3b" name="Changes" comment="OK DONE" />
     <list id="fe6c420c-7a51-447f-9ae9-dbf586490a28" name="Changes by tanat" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +99,14 @@
       <recent name="Lab2.เพื่อนส่งมา" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Prog_9_1">
+  <component name="RunManager" selected="Application.TestAccount">
+    <configuration name="Prog_6_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Prog_6_1" />
+      <module name="Jaehaerys" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Prog_9_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Prog_9_1" />
       <module name="Jaehaerys" />
@@ -132,10 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestAccount" />
+        <item itemvalue="Application.Prog_6_1" />
         <item itemvalue="Application.Prog_9_1" />
         <item itemvalue="Application.Prog_9_11" />
         <item itemvalue="Application.TestAccount2" />
-        <item itemvalue="Application.TestAccount" />
       </list>
     </recent_temporary>
   </component>
@@ -147,14 +153,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718623507660</updated>
-    </task>
-    <task id="LOCAL-00001" summary="1">
-      <option name="closed" value="true" />
-      <created>1718624519412</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1718624519412</updated>
     </task>
     <task id="LOCAL-00002" summary="1">
       <option name="closed" value="true" />
@@ -540,7 +538,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719203319934</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="OK DONE">
+      <option name="closed" value="true" />
+      <created>1719219144310</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1719219144311</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -563,10 +569,10 @@
     <MESSAGE value="NOT DONE" />
     <MESSAGE value="OK DONE added link youtube" />
     <MESSAGE value="OK DONE add comment" />
-    <MESSAGE value="OK DONE" />
     <MESSAGE value="OK DONE add comment and fix parentheses in method getX, getY" />
     <MESSAGE value="wip" />
-    <option name="LAST_COMMIT_MESSAGE" value="wip" />
+    <MESSAGE value="OK DONE" />
+    <option name="LAST_COMMIT_MESSAGE" value="OK DONE" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
