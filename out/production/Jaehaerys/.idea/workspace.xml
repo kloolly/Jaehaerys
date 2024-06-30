@@ -5,29 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48dcba57-0ab3-46b2-81d6-2a3fd9ffcd3b" name="Changes" comment="WIP">
-      <change afterPath="$PROJECT_DIR$/Lab3/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/Lab3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab4/Vehicle/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab4/Vehicle/.idea/Vehicle.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab4/Vehicle/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab4/Vehicle/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab4/Vehicle/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab4/Vehicle/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab4/Vehicle/TestVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4/Vehicle/TestVehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab4/Vehicle/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4/Vehicle/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab4/Vehicle/out/production/Vehicle/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab4/Vehicle/out/production/Vehicle/.idea/Vehicle.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab4/Vehicle/out/production/Vehicle/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab4/Vehicle/out/production/Vehicle/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab4/Vehicle/out/production/Vehicle/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab4/Vehicle/out/production/Vehicle/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab4/Vehicle/out/production/Vehicle/TestVehicle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab4/Vehicle/out/production/Vehicle/Vehicle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Jaehaerys/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Jaehaerys/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selfLearning/src/LearnClass/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/selfLearning/src/LearnClass/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/Coffee/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/Coffee/TestCoffee.java" afterDir="false" />
     </list>
     <list id="fe6c420c-7a51-447f-9ae9-dbf586490a28" name="Changes by tanat" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -110,6 +89,7 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/tanat/Library/CloudStorage/OneDrive-NationalInstituteofDevelopmentAdministration/ITM24/4010 Database Management Systems and Business Applications Development/LabJava/Jaehaerys/Lab3/account2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
@@ -125,7 +105,7 @@
       <recent name="Lab2.เพื่อนส่งมา" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TestCoffee">
     <configuration name="Prog_6_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Prog_6_1" />
       <module name="Jaehaerys" />
@@ -140,15 +120,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Prog_9_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Prog_9_11" />
+    <configuration name="TestAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestAccount" />
       <module name="Jaehaerys" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestAccount" />
+    <configuration name="TestCoffee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestCoffee" />
       <module name="Jaehaerys" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -163,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestCoffee" />
         <item itemvalue="Application.TestVehicle" />
         <item itemvalue="Application.TestAccount" />
         <item itemvalue="Application.Prog_6_1" />
         <item itemvalue="Application.Prog_9_1" />
-        <item itemvalue="Application.Prog_9_11" />
       </list>
     </recent_temporary>
   </component>
@@ -179,30 +159,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718623507660</updated>
-    </task>
-    <task id="LOCAL-00004" summary="DONE">
-      <option name="closed" value="true" />
-      <created>1718634002456</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1718634002456</updated>
-    </task>
-    <task id="LOCAL-00005" summary="K">
-      <option name="closed" value="true" />
-      <created>1718636431078</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1718636431078</updated>
-    </task>
-    <task id="LOCAL-00006" summary="ยังไม่เสร็จ ยังงงอยู่">
-      <option name="closed" value="true" />
-      <created>1718638343875</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1718638343875</updated>
     </task>
     <task id="LOCAL-00007" summary="ยังไม่เสร็จ ยังงงอยู่">
       <option name="closed" value="true" />
@@ -572,7 +528,31 @@
       <option name="project" value="LOCAL" />
       <updated>1719630834302</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="code from lecture">
+      <option name="closed" value="true" />
+      <created>1719654783351</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1719654783352</updated>
+    </task>
+    <task id="LOCAL-00054" summary="WIP">
+      <option name="closed" value="true" />
+      <created>1719654800826</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1719654800826</updated>
+    </task>
+    <task id="LOCAL-00055" summary="WIP">
+      <option name="closed" value="true" />
+      <created>1719669987908</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1719669987909</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -598,6 +578,7 @@
     <MESSAGE value="OK DONE add comment and fix parentheses in method getX, getY" />
     <MESSAGE value="wip" />
     <MESSAGE value="OK DONE" />
+    <MESSAGE value="code from lecture" />
     <MESSAGE value="WIP" />
     <option name="LAST_COMMIT_MESSAGE" value="WIP" />
   </component>
