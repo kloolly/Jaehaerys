@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48dcba57-0ab3-46b2-81d6-2a3fd9ffcd3b" name="Changes" comment="WIP">
-      <change afterPath="$PROJECT_DIR$/Lab4/Coffee/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab4/Coffee/TestCoffee.java" afterDir="false" />
+    <list default="true" id="48dcba57-0ab3-46b2-81d6-2a3fd9ffcd3b" name="Changes" comment="Lab Instruction">
+      <change afterPath="$PROJECT_DIR$/Lab4/Triangle/GeometricObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/Triangle/TestTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/Triangle/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Jaehaerys/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Jaehaerys/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="fe6c420c-7a51-447f-9ae9-dbf586490a28" name="Changes by tanat" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,49 +52,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.Account.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercise_01.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Exercise_11.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GuessNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IntegerOverflowExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeapYear.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Prog_3_5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Prog_5_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Prog_5_11.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Prog_5_13.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Prog_5_15.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Prog_5_3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Prog_5_35.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Prog_5_3v1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Prog_5_43.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Prog_5_5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Prog_6_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Prog_7_9.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Prog_9_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Prog_9_11.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Second.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestAccount.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestAccount2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestCoffee.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestVehicle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test_Dog.executor&quot;: &quot;Run&quot;,
-    &quot;Application.arrayChap01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.kkkk.executor&quot;: &quot;Run&quot;,
-    &quot;Application.storeInArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.testBool.executor&quot;: &quot;Run&quot;,
-    &quot;Application.w3.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/tanat/Library/CloudStorage/OneDrive-NationalInstituteofDevelopmentAdministration/ITM24/4010 Database Management Systems and Business Applications Development/LabJava/Jaehaerys/Lab3/account2&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Account.executor": "Run",
+    "Application.Exercise_01.executor": "Debug",
+    "Application.Exercise_11.executor": "Run",
+    "Application.GuessNumber.executor": "Run",
+    "Application.IntegerOverflowExample.executor": "Run",
+    "Application.LeapYear.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Prog_3_5.executor": "Run",
+    "Application.Prog_5_1.executor": "Run",
+    "Application.Prog_5_11.executor": "Run",
+    "Application.Prog_5_13.executor": "Run",
+    "Application.Prog_5_15.executor": "Run",
+    "Application.Prog_5_3.executor": "Run",
+    "Application.Prog_5_35.executor": "Run",
+    "Application.Prog_5_3v1.executor": "Run",
+    "Application.Prog_5_43.executor": "Run",
+    "Application.Prog_5_5.executor": "Run",
+    "Application.Prog_6_1.executor": "Run",
+    "Application.Prog_7_9.executor": "Run",
+    "Application.Prog_9_1.executor": "Run",
+    "Application.Prog_9_11.executor": "Run",
+    "Application.Second.executor": "Run",
+    "Application.TestAccount.executor": "Run",
+    "Application.TestAccount2.executor": "Run",
+    "Application.TestCoffee.executor": "Run",
+    "Application.TestTriangle.executor": "Run",
+    "Application.TestVehicle.executor": "Run",
+    "Application.Test_Dog.executor": "Run",
+    "Application.arrayChap01.executor": "Run",
+    "Application.kkkk.executor": "Run",
+    "Application.storeInArray.executor": "Run",
+    "Application.testBool.executor": "Run",
+    "Application.w3.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/tanat/Library/CloudStorage/OneDrive-NationalInstituteofDevelopmentAdministration/ITM24/4010 Database Management Systems and Business Applications Development/LabJava/Jaehaerys/Lab3/account2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Lab3/account2" />
@@ -105,16 +107,9 @@
       <recent name="Lab2.เพื่อนส่งมา" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestCoffee">
+  <component name="RunManager" selected="Application.TestTriangle">
     <configuration name="Prog_6_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Prog_6_1" />
-      <module name="Jaehaerys" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Prog_9_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Prog_9_1" />
       <module name="Jaehaerys" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -134,6 +129,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestTriangle" />
+      <module name="Jaehaerys" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestVehicle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestVehicle" />
       <module name="Jaehaerys" />
@@ -143,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestTriangle" />
         <item itemvalue="Application.TestCoffee" />
         <item itemvalue="Application.TestVehicle" />
         <item itemvalue="Application.TestAccount" />
         <item itemvalue="Application.Prog_6_1" />
-        <item itemvalue="Application.Prog_9_1" />
       </list>
     </recent_temporary>
   </component>
@@ -159,54 +161,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718623507660</updated>
-    </task>
-    <task id="LOCAL-00007" summary="ยังไม่เสร็จ ยังงงอยู่">
-      <option name="closed" value="true" />
-      <created>1718698842661</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1718698842661</updated>
-    </task>
-    <task id="LOCAL-00008" summary="OK DONE">
-      <option name="closed" value="true" />
-      <created>1718721435356</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1718721435356</updated>
-    </task>
-    <task id="LOCAL-00009" summary="NOT DONE">
-      <option name="closed" value="true" />
-      <created>1718721465375</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1718721465376</updated>
-    </task>
-    <task id="LOCAL-00010" summary="OK DONE">
-      <option name="closed" value="true" />
-      <created>1718724929277</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1718724929277</updated>
-    </task>
-    <task id="LOCAL-00011" summary="OK DONE">
-      <option name="closed" value="true" />
-      <created>1718726868497</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1718726868498</updated>
-    </task>
-    <task id="LOCAL-00012" summary="OK DONE">
-      <option name="closed" value="true" />
-      <created>1718726969339</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1718726969339</updated>
     </task>
     <task id="LOCAL-00013" summary="OK DONE">
       <option name="closed" value="true" />
@@ -552,7 +506,55 @@
       <option name="project" value="LOCAL" />
       <updated>1719669987909</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="OK DONE">
+      <option name="closed" value="true" />
+      <created>1719680279730</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1719680279730</updated>
+    </task>
+    <task id="LOCAL-00057" summary="OK DONE">
+      <option name="closed" value="true" />
+      <created>1719720600320</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1719720600321</updated>
+    </task>
+    <task id="LOCAL-00058" summary="OK DONE">
+      <option name="closed" value="true" />
+      <created>1719720634148</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1719720634148</updated>
+    </task>
+    <task id="LOCAL-00059" summary="OK DONE">
+      <option name="closed" value="true" />
+      <created>1719721695967</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1719721695967</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Lab Instruction">
+      <option name="closed" value="true" />
+      <created>1719721770079</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1719721770079</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Lab Instruction">
+      <option name="closed" value="true" />
+      <created>1719721788038</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1719721788038</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -577,10 +579,11 @@
     <MESSAGE value="OK DONE add comment" />
     <MESSAGE value="OK DONE add comment and fix parentheses in method getX, getY" />
     <MESSAGE value="wip" />
-    <MESSAGE value="OK DONE" />
     <MESSAGE value="code from lecture" />
     <MESSAGE value="WIP" />
-    <option name="LAST_COMMIT_MESSAGE" value="WIP" />
+    <MESSAGE value="OK DONE" />
+    <MESSAGE value="Lab Instruction" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab Instruction" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
