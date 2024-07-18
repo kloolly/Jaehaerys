@@ -4,11 +4,112 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48dcba57-0ab3-46b2-81d6-2a3fd9ffcd3b" name="Changes" comment="Lab Instruction">
-      <change afterPath="$PROJECT_DIR$/Lab4/Triangle/GeometricObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab4/Triangle/TestTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab4/Triangle/Triangle.java" afterDir="false" />
+    <list default="true" id="48dcba57-0ab3-46b2-81d6-2a3fd9ffcd3b" name="Changes" comment="test fibonacci">
+      <change afterPath="$PROJECT_DIR$/exam/exam1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selfLearning/src/testCalcu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Jaehaerys.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Jaehaerys.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/1B.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/1B.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/AverageOf3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/AverageOf3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/AverageOf3.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/AverageOf3.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/HelloWorld.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/HelloWorld.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/Lab1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Lab1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/MaxOf3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/MaxOf3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/MaxOf3.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/MaxOf3.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/Prog_1_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Prog_1_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/Prog_1_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Prog_1_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/Prog_2_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Prog_2_15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/Prog_2_23.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/Prog_2_23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/out/production/Jaehaerys/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/out/production/Jaehaerys/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/out/production/Jaehaerys/.idea/Jaehaerys.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/out/production/Jaehaerys/.idea/Jaehaerys.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/out/production/Jaehaerys/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/out/production/Jaehaerys/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/out/production/Jaehaerys/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/out/production/Jaehaerys/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/out/production/Jaehaerys/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/out/production/Jaehaerys/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/out/production/Jaehaerys/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/out/production/Jaehaerys/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/out/production/Jaehaerys/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/out/production/Jaehaerys/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/out/production/Jaehaerys/AverageOf3.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/out/production/Jaehaerys/AverageOf3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/out/production/Jaehaerys/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/out/production/Jaehaerys/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/out/production/Jaehaerys/MaxOf3.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/out/production/Jaehaerys/MaxOf3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/out/production/Jaehaerys/Prog_1_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/out/production/Jaehaerys/Prog_1_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/2B.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/2B.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/GuessANumber.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/GuessANumber.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/GuessNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/GuessNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/Lab2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/Lab2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/LeapYear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/LeapYear.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/LeapYear.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/Prog_5_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/Prog_5_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/Prog_5_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/Prog_5_13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/Prog_5_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/Prog_5_15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/Prog_5_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/Prog_5_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/Prog_5_43.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/Prog_5_43.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/Prog_5_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/Prog_5_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/Prog_7_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/Prog_7_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/Prog_7_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/Prog_7_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/3B.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/3B.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/Lab3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/Lab3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/Lab3.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/Lab3.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/Prog_6_1/Prog_6_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/Prog_6_1/Prog_6_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/Prog_9_1/Prog_9_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/Prog_9_1/Prog_9_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/Prog_9_1/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/Prog_9_1/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/Prog_9_1/link youtube ตอนทำ.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/Prog_9_1/link youtube ตอนทำ.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/Prog_9_11/LinearEquation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/Prog_9_11/LinearEquation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/Prog_9_11/Prog_9_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/Prog_9_11/Prog_9_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/Prog_9_11/link youtube ตอนทำ.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/Prog_9_11/link youtube ตอนทำ.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/account/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/account/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/account/Account.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/account/Account.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/account/TestAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/account/TestAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/account/link youtube ตอนทำ.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/account/link youtube ตอนทำ.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/account2/Account2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/account2/Account2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/account2/Account2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/account2/Account2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/account2/TestAccount2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/account2/TestAccount2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/account2/link youtube ตอนทำ.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/account2/link youtube ตอนทำ.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/lecture/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/lecture/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/lecture/Test_Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/lecture/Test_Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/4B.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4/4B.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/Coffee/Coffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4/Coffee/Coffee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/Coffee/Coffee.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4/Coffee/Coffee.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/Coffee/Starbox.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4/Coffee/Starbox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/Coffee/TestCoffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4/Coffee/TestCoffee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/Coffee/link youtube.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4/Coffee/link youtube.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/Lab4.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4/Lab4.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/Triangle/GeometricObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4/Triangle/GeometricObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/Triangle/TestTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4/Triangle/TestTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/Triangle/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4/Triangle/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/Triangle/link youtube.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4/Triangle/link youtube.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/Vehicle/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4/Vehicle/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/Vehicle/TestVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4/Vehicle/TestVehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4/Vehicle/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab4/Vehicle/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Jaehaerys/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Jaehaerys/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selfLearning/selfLearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/selfLearning/selfLearning.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selfLearning/src/LearnClass/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/selfLearning/src/LearnClass/Box.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selfLearning/src/LearnClass/BoxV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/selfLearning/src/LearnClass/BoxV2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selfLearning/src/LearnClass/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/selfLearning/src/LearnClass/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selfLearning/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/selfLearning/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selfLearning/src/arrayChap01.java" beforeDir="false" afterPath="$PROJECT_DIR$/selfLearning/src/arrayChap01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selfLearning/src/basicChap01.java" beforeDir="false" afterPath="$PROJECT_DIR$/selfLearning/src/basicChap01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selfLearning/src/basicChap02.java" beforeDir="false" afterPath="$PROJECT_DIR$/selfLearning/src/basicChap02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selfLearning/src/conditionChap01.java" beforeDir="false" afterPath="$PROJECT_DIR$/selfLearning/src/conditionChap01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selfLearning/src/conditionChap02.java" beforeDir="false" afterPath="$PROJECT_DIR$/selfLearning/src/conditionChap02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selfLearning/src/fibfib.java" beforeDir="false" afterPath="$PROJECT_DIR$/selfLearning/src/fibfib.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selfLearning/src/forLoopChap01.java" beforeDir="false" afterPath="$PROJECT_DIR$/selfLearning/src/forLoopChap01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selfLearning/src/forLoopChap02.java" beforeDir="false" afterPath="$PROJECT_DIR$/selfLearning/src/forLoopChap02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selfLearning/src/storeInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/selfLearning/src/storeInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selfLearning/src/testBool.java" beforeDir="false" afterPath="$PROJECT_DIR$/selfLearning/src/testBool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selfLearning/src/w3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/selfLearning/src/w3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selfLearning/src/w3/Second.java" beforeDir="false" afterPath="$PROJECT_DIR$/selfLearning/src/w3/Second.java" afterDir="false" />
     </list>
     <list id="fe6c420c-7a51-447f-9ae9-dbf586490a28" name="Changes by tanat" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +139,9 @@
     &quot;accountId&quot;: &quot;5282c416-19e2-4e0e-ac66-6da824df734a&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
@@ -52,49 +156,53 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.Account.executor": "Run",
-    "Application.Exercise_01.executor": "Debug",
-    "Application.Exercise_11.executor": "Run",
-    "Application.GuessNumber.executor": "Run",
-    "Application.IntegerOverflowExample.executor": "Run",
-    "Application.LeapYear.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Prog_3_5.executor": "Run",
-    "Application.Prog_5_1.executor": "Run",
-    "Application.Prog_5_11.executor": "Run",
-    "Application.Prog_5_13.executor": "Run",
-    "Application.Prog_5_15.executor": "Run",
-    "Application.Prog_5_3.executor": "Run",
-    "Application.Prog_5_35.executor": "Run",
-    "Application.Prog_5_3v1.executor": "Run",
-    "Application.Prog_5_43.executor": "Run",
-    "Application.Prog_5_5.executor": "Run",
-    "Application.Prog_6_1.executor": "Run",
-    "Application.Prog_7_9.executor": "Run",
-    "Application.Prog_9_1.executor": "Run",
-    "Application.Prog_9_11.executor": "Run",
-    "Application.Second.executor": "Run",
-    "Application.TestAccount.executor": "Run",
-    "Application.TestAccount2.executor": "Run",
-    "Application.TestCoffee.executor": "Run",
-    "Application.TestTriangle.executor": "Run",
-    "Application.TestVehicle.executor": "Run",
-    "Application.Test_Dog.executor": "Run",
-    "Application.arrayChap01.executor": "Run",
-    "Application.kkkk.executor": "Run",
-    "Application.storeInArray.executor": "Run",
-    "Application.testBool.executor": "Run",
-    "Application.w3.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/tanat/Library/CloudStorage/OneDrive-NationalInstituteofDevelopmentAdministration/ITM24/4010 Database Management Systems and Business Applications Development/LabJava/Jaehaerys/Lab3/account2",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Account.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercise_01.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Exercise_11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GuessNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IntegerOverflowExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeapYear.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prog_1_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prog_3_5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prog_5_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prog_5_11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prog_5_13.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prog_5_15.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prog_5_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prog_5_35.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prog_5_3v1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prog_5_43.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prog_5_5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prog_6_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prog_7_9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prog_9_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prog_9_11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Second.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestAccount.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestAccount2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestCoffee.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestTriangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestVehicle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test_Dog.executor&quot;: &quot;Run&quot;,
+    &quot;Application.arrayChap01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.fibfib.executor&quot;: &quot;Run&quot;,
+    &quot;Application.kkkk.executor&quot;: &quot;Run&quot;,
+    &quot;Application.storeInArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.testBool.executor&quot;: &quot;Run&quot;,
+    &quot;Application.testCalcu.executor&quot;: &quot;Run&quot;,
+    &quot;Application.w3.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/tanat/Library/CloudStorage/OneDrive-NationalInstituteofDevelopmentAdministration/ITM24/4010 Database Management Systems and Business Applications Development/LabJava/Jaehaerys&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Lab3/account2" />
@@ -107,49 +215,55 @@
       <recent name="Lab2.เพื่อนส่งมา" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestTriangle">
-    <configuration name="Prog_6_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Prog_6_1" />
+  <component name="RunManager" selected="Application.ex1">
+    <configuration name="Prog_1_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Prog_1_1" />
       <module name="Jaehaerys" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestAccount" />
+    <configuration name="TestAccount2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestAccount2" />
       <module name="Jaehaerys" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCoffee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestCoffee" />
+    <configuration name="Test_Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test_Dog" />
       <module name="Jaehaerys" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestTriangle" />
+    <configuration name="ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exam.ex1" />
       <module name="Jaehaerys" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestVehicle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestVehicle" />
-      <module name="Jaehaerys" />
+    <configuration name="testCalcu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testCalcu" />
+      <module name="selfLearning" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestTriangle" />
-        <item itemvalue="Application.TestCoffee" />
-        <item itemvalue="Application.TestVehicle" />
-        <item itemvalue="Application.TestAccount" />
-        <item itemvalue="Application.Prog_6_1" />
+        <item itemvalue="Application.ex1" />
+        <item itemvalue="Application.Prog_1_1" />
+        <item itemvalue="Application.TestAccount2" />
+        <item itemvalue="Application.testCalcu" />
+        <item itemvalue="Application.Test_Dog" />
       </list>
     </recent_temporary>
   </component>
@@ -161,46 +275,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718623507660</updated>
-    </task>
-    <task id="LOCAL-00013" summary="OK DONE">
-      <option name="closed" value="true" />
-      <created>1718786155937</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1718786155937</updated>
-    </task>
-    <task id="LOCAL-00014" summary="OK DONE">
-      <option name="closed" value="true" />
-      <created>1718790321913</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1718790321913</updated>
-    </task>
-    <task id="LOCAL-00015" summary="OK DONE">
-      <option name="closed" value="true" />
-      <created>1718809958485</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1718809958485</updated>
-    </task>
-    <task id="LOCAL-00016" summary="OK DONE">
-      <option name="closed" value="true" />
-      <created>1718811525313</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1718811525313</updated>
-    </task>
-    <task id="LOCAL-00017" summary="wip">
-      <option name="closed" value="true" />
-      <created>1718866071311</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1718866071311</updated>
     </task>
     <task id="LOCAL-00018" summary="wip">
       <option name="closed" value="true" />
@@ -554,7 +628,47 @@
       <option name="project" value="LOCAL" />
       <updated>1719721788038</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="OK DONE">
+      <option name="closed" value="true" />
+      <created>1719732971039</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1719732971039</updated>
+    </task>
+    <task id="LOCAL-00063" summary="OK DONE">
+      <option name="closed" value="true" />
+      <created>1719733873864</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1719733873864</updated>
+    </task>
+    <task id="LOCAL-00064" summary="OK DONE">
+      <option name="closed" value="true" />
+      <created>1719736498836</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1719736498837</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Add Lab Instruction guidePDF.">
+      <option name="closed" value="true" />
+      <created>1719753331049</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1719753331050</updated>
+    </task>
+    <task id="LOCAL-00066" summary="test fibonacci">
+      <option name="closed" value="true" />
+      <created>1719988508049</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1719988508049</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -581,9 +695,11 @@
     <MESSAGE value="wip" />
     <MESSAGE value="code from lecture" />
     <MESSAGE value="WIP" />
-    <MESSAGE value="OK DONE" />
     <MESSAGE value="Lab Instruction" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab Instruction" />
+    <MESSAGE value="OK DONE" />
+    <MESSAGE value="Add Lab Instruction guidePDF." />
+    <MESSAGE value="test fibonacci" />
+    <option name="LAST_COMMIT_MESSAGE" value="test fibonacci" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
