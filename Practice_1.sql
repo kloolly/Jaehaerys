@@ -1,4 +1,6 @@
 -- Practice 1
+-- link Youtube
+-- https://youtu.be/MLUdg7tL67k
 
 -- 3. Will the SELECT statement execute successfully?
 -- True/False
